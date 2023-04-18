@@ -2,15 +2,6 @@
 
 This repository contains a machine learning project for detecting whether a person is wearing a face mask or not, with an accuracy of 96%. The model can be used in various settings to help enforce public health guidelines and reduce the spread of COVID-19.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Tools and Technologies](#tools-and-technologies)
-- [File Descriptions](#file-descriptions)
-- [Results](#results)
-- [Model Deployment](#model-deployment)
-- [Model Inference](#model-inference)
-- [Acknowledgements](#acknowledgements)
-
 ## Project Overview
 The Face Mask Detection project uses deep learning techniques to detect whether a person is wearing a face mask or not. By analyzing images of people, the model can identify whether the person is wearing a mask and output a prediction. The project involves data cleaning and preprocessing, model training and evaluation, and the creation of a predictive model.
 
